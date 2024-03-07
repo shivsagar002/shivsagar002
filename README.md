@@ -13,11 +13,11 @@
 
 - 💬 Ask me about **Frontend Web Developement**
 
-- 📫 How to reach me **wa.me/+918750771201**
+- 📫 How to reach me **[Whatsapp](wa.me/+918750771201) [Linkedin](https://linkedin.com/in/shivsagar002) [Instagram](https://instagram.com/shivsagar002)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/shivsagar002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="shivsagar002" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shivsagar002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivsagar002" height="30" width="40" /></a>
 <a href="https://twitter.com/shivsagar002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shivsagar002" height="30" width="40" /></a>
 <a href="https://codesandbox.com/shivsagar002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="shivsagar002" height="30" width="40" /></a>
 <a href="https://fb.com/shivsagar002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shivsagar002" height="30" width="40" /></a>
